@@ -1,0 +1,15 @@
+.container{
+  background-color: black;
+}
+
+.btnHolaMundo{
+  background-color: blue;
+}
+
+.btnOtraCosa{
+  display: flex;
+  background-color: transparent;
+  border: transparent;
+  text-decoration-line: line-through;
+  margin-top: 10px;
+}
